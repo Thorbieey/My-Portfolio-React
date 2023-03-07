@@ -1,5 +1,5 @@
 import React from "react";
-import backgroundImage from "../../images/banner.jpg";
+import backgroundImage from "../images/banner.jpg";
 
 
 const styles = {
