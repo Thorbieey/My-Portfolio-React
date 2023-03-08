@@ -1,0 +1,19 @@
+.skills-container{
+    justify-content: center;
+    margin-bottom: 20px;
+}
+.skill {
+    font-size: 1.2em;
+    font-weight: 500;
+    background: linear-gradient(#913175, #CD5888);
+    border: 0.5px solid #E9E8E8 !important;
+    display: flex !important;
+    justify-content: space-between;
+    align-items: center;
+}
+.custom-badge {
+    color: #CD5888 !important;
+    background-color: #20262E;
+}
+
+/* d-flex justify-content-between align-items-center */
