@@ -1,14 +1,16 @@
 {
   "files": {
-    "main.css": "/My-Portfolio-React/static/css/main.c2cab247.css",
-    "main.js": "/My-Portfolio-React/static/js/main.e7f2fd85.js",
+    "main.css": "/My-Portfolio-React/static/css/main.c3202f74.css",
+    "main.js": "/My-Portfolio-React/static/js/main.f08a84ea.js",
     "static/media/banner.jpg": "/My-Portfolio-React/static/media/banner.c5334efd58e0d5c97ac5.jpg",
+    "static/media/profile-picture.jpg": "/My-Portfolio-React/static/media/profile-picture.50dca6f983f84716a3e8.jpg",
+    "static/media/TobiOlajide-WebDeveloper.pdf": "/My-Portfolio-React/static/media/TobiOlajide-WebDeveloper.52474d3ca02868c50c24.pdf",
     "index.html": "/My-Portfolio-React/index.html",
-    "main.c2cab247.css.map": "/My-Portfolio-React/static/css/main.c2cab247.css.map",
-    "main.e7f2fd85.js.map": "/My-Portfolio-React/static/js/main.e7f2fd85.js.map"
+    "main.c3202f74.css.map": "/My-Portfolio-React/static/css/main.c3202f74.css.map",
+    "main.f08a84ea.js.map": "/My-Portfolio-React/static/js/main.f08a84ea.js.map"
   },
   "entrypoints": [
-    "static/css/main.c2cab247.css",
-    "static/js/main.e7f2fd85.js"
+    "static/css/main.c3202f74.css",
+    "static/js/main.f08a84ea.js"
   ]
 }
