@@ -13,7 +13,7 @@ nav {
     padding: 0 5px 0 20px;
     margin-bottom: 0;
     color: #E9E8E8;
-    background-color: #913175;
+    background: linear-gradient(#913175, #CD5888);
 }
 .customNavItems {
     margin-left: auto;
@@ -26,12 +26,15 @@ nav {
     font-weight: 500;
     padding: 2px;
 }
-.customNavLink,
-.resumeNavLink {
+.customNavLink{
     color: #913175 !important;
 }
+.resumeNavLink {
+    color: #E9E8E8 !important;
+    background-color: #CD5888 !important;
+}
 .resumeNavItem {
-    border: 1.5px solid #913175;
+    border: 3px solid #913175;
     border-radius: 5px;
     padding: 0px;
 }
@@ -40,13 +43,12 @@ nav {
     background-color: #913175;
 }
 .resumeNavLink:hover {
-    color: #E9E8E8 !important;
-    background-color: #913175;
+    color: #913175 !important;
 }
 
 .page-header{
     text-align: center;
-    text-shadow: #E9E8E8 1px 0 10px;
+    text-shadow: #E9E8E8 1px 0 5px;
     font-size: 5em;
     font-weight: 700;
     color: #913175;

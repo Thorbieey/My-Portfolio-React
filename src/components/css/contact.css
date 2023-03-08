@@ -1,0 +1,19 @@
+.contact-container{
+    justify-content: center;
+}
+.contact-texts{
+    font-size: 2em;
+}
+.contact-list{
+    font-size: 1.5em;
+}
+.contact-link{
+    text-decoration: none;
+    color: #E9E8E8;
+}
+.contact-link:hover{
+    color: #913175;
+}
+.contact-item{
+    padding: 5px;
+}
