@@ -1,0 +1,11 @@
+[
+    {
+        "id": 0,
+        "title": "Weather Dashboard",
+        "description": "A responsive web application that provides users with the ability to easily check the weather outlook for any city around the world. This application features a user-friendly interface optimized for all devices which also allows users save and view their search history.",
+        "tags": "HTML/CSS/Javascript",
+        "gif": "WeatherDashboard",
+        "repoURL": "https://github.com/Thorbieey/Portfolio.git",
+        "appURL": "https://thorbieey.github.io/Weather-Dashboard/"
+    }
+]

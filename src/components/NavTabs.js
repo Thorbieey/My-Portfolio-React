@@ -47,6 +47,17 @@ function NavTabs() {
                       Skills
                     </NavLink>
                   </li>
+                  <li className="nav-item customNavItem">
+                    <NavLink
+                      to="/My-Portfolio-React/project-gallery"
+                      end
+                      className={({ isActive }) =>
+                        isActive ? 'nav-link customNavLink active' : 'nav-link customNavLink'
+                      }
+                    >
+                      Project Gallery
+                    </NavLink>
+                  </li>
                   <li className="nav-item customNavItem dropdown">
                     <NavLink
                       to="/My-Portfolio-React/contact"
