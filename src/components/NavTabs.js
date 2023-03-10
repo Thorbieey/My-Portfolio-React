@@ -2,18 +2,19 @@ import React from 'react';
 import { NavLink } from 'react-router-dom';
 import CV from "./add-ons/TobiOlajide-WebDeveloper.pdf";
 import "./css/navTabs.css";
+import "bootstrap/js/src/collapse.js"
 
 
 function NavTabs() {
   return (
     <nav className="navbar navbar-expand-lg custom-nav">
-      <h1 className="mainLogo" href="#">Tobi Olajide</h1>
-      <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <h1 className="mainLogo navbar-brand" href="#">Tobi Olajide</h1>
+      <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span className="navbar-toggler-icon"></span>
       </button>
 
       <div className="collapse navbar-collapse nav-items customNavItems" id="navbarSupportedContent">
-               <ul className="navbar-nav mr-auto">
+               <ul className="navbar-nav me-auto">
                   <li className="nav-item customNavItem">
                     <NavLink
                         to="/My-Portfolio-React"
