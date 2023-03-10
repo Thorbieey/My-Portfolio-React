@@ -99,6 +99,8 @@ When contributing to this repository, please first discuss the change you wish t
 
 - [Find out to re-size your background images on **slack**](https://stackoverflow.com/questions/14059429/css-full-size-background-image)
 
+- [Learn how to dominate your bootstrap nav-bar collapse on **slack**](https://stackoverflow.com/questions/48248975/bootstrap-navbar-collapse-dont-work-react-create-react-app)
+
 - [Learn about upgrading to **React 18**](https://reactjs.org/blog/2022/03/08/react-18-upgrade-guide.html#updates-to-client-rendering-apis)
 
 ---
