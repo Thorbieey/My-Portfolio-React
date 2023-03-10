@@ -4,7 +4,6 @@ import CV from "./add-ons/TobiOlajide-WebDeveloper.pdf";
 import "./css/navTabs.css";
 
 
-
 function NavTabs() {
   return (
     <nav className="navbar navbar-expand-lg custom-nav">

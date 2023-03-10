@@ -1,70 +1,116 @@
-# Getting Started with Create React App
+# My Portfolio React
+  
+## Description 
+  
+My portfolio upgraded to utilize React 18. Highlights my strongest work as a developer.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## Available Scripts
+### User Story
+> AS A web devoloper being able to showcase my skills to potential employers is an important aspect of getting recruited
+>
+>I WANT a portfolio of work which highlights my strongest work with links to deployed applications and their repositories.
+>
+>SO THAT recruiters can easily view and access my proficiency as a web developer across various devices.
 
-In the project directory, you can run:
+---
+## Table of Contents
 
-### `npm start`
+* [Description](#description)
+* [Installation](#installation)
+* [Usage](#usage)
+* [License](#license)
+* [Contributors](#contributors)
+* [Credits](#credits)
+* [Questions](#questions)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
+## Installation
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- Clone repo
 
-### `npm test`
+        git clone https://github.com/Thorbieey/My-Portfolio-React.git
+        
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Initialize npm and install dependencies
 
-### `npm run build`
+- Run application in command line
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+        npm start
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
+## Usage 
 
-### `npm run eject`
+### Repository
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+* The URL of the GitHub repository: 
+[https://github.com/Thorbieey/My-Portfolio-React.git](https://github.com/Thorbieey/My-Portfolio-React.git)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+* The URL of the deployed application: 
+[https://thorbieey.github.io/My-Portfolio-React](https://thorbieey.github.io/My-Portfolio-React)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### Screenshots/Demo
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+![Demo](./src/components/images/react-portfolio-demo.gif)
 
-## Learn More
+![Screenshot](./src/components/images/screenshot-1.png)
+![Screenshot](./src/components/images/screenshot-2.png)
+![Screenshot](./src/components/images/screenshot-3.png)
+---
+## License
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+This application is covered under: **The MIT License**. Learn more about [choosing licenses](https://choosealicense.com/licenses/).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+---
+## Contributors
 
-### Code Splitting
+When contributing to this repository, please first discuss the change you wish to make via email, issue, linkedIn or any other method with the owner of this repository before making a change. 
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+### Pull Request Process
 
-### Analyzing the Bundle Size
+1. Fork the repository
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+2. Create a feature branch.
 
-### Making a Progressive Web App
+        git checkout -b name/feature/new-feature
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+3. Add and commit your changes.
 
-### Advanced Configuration
+        git add .
+        git commit -m "short description of feature"
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+4. Push your contribution to the created branch.
 
-### Deployment
+        git push
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+5. Submit a new Pull Request on GitHub.
 
-### `npm run build` fails to minify
+---
+## Credits
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- [Color palettes for designers and artists](https://colorhunt.co/)
+
+- [Create your own banner](https://www.fotor.com/)
+
+- [Explore a cool example to get you navigating with: **React Router**](https://reactrouter.com/en/main/start/tutorial)
+
+- [Find out to re-size your background images on **slack**](https://stackoverflow.com/questions/14059429/css-full-size-background-image)
+
+- [Learn about upgrading to **React 18**](https://reactjs.org/blog/2022/03/08/react-18-upgrade-guide.html#updates-to-client-rendering-apis)
+
+---
+## Questions
+
+Got any additional questions/enquiries? Reach out to **Tobi Olajide** via:
+
+Email: tobiolajide223@gmail.com
+
+GitHub: [Thorbieey](https://github.com/Thorbieey)
+
+LinkedIn: https://www.linkedin.com/in/tobi-olajide/
+
+  
+---

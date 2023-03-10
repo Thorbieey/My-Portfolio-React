@@ -1,6 +1,6 @@
 import React from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
-import NavTabs from './components/NavTabs';
+import Header from './components/Header';
 import Home from './components/pages/Home';
 import About from './components/pages/About';
 import ProjectGallery from './components/pages/Project-Gallery';
@@ -10,7 +10,7 @@ function App() {
   return (
     <Router>
       <div>
-        <NavTabs />
+        <Header />
         {/* Wrap Route elements in a Routes component */}
         <Routes basename= "My-Portfolio-React">
           {/* Define routes using the Route component to render different page components at different paths */}
@@ -27,4 +27,3 @@ function App() {
 }
 
 export default App;
-
