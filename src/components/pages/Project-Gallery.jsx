@@ -8,7 +8,7 @@ function ProjectGallery() {
     <div className="row project-container">
       <h1 className="page-header">Project Gallery</h1>
       <div
-        className='projects-container'>
+        className='projects-container row'>
         {projectList}
       </div>
     </div>

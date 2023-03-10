@@ -1,11 +1,56 @@
-[
+[                      
     {
         "id": 0,
         "title": "Weather Dashboard",
-        "description": "A responsive web application that provides users with the ability to easily check the weather outlook for any city around the world. This application features a user-friendly interface optimized for all devices which also allows users save and view their search history.",
+        "description": "A responsive web application that provides users with the ability to easily check the weather outlook for any city around the world.",
         "tags": "HTML/CSS/Javascript",
-        "gif": "WeatherDashboard",
+        "gif": "weather-dashboard-demo",
         "repoURL": "https://github.com/Thorbieey/Portfolio.git",
         "appURL": "https://thorbieey.github.io/Weather-Dashboard/"
+    },                       
+    {
+        "id": 1,
+        "title": "Password Generator",
+        "description": "A responsive web application designed for personal or professional use which generates passwords of varying complexities based on user-selected criterias.",
+        "tags": "HTML/CSS/Javascript",
+        "gif": "password-generator-demo",
+        "repoURL": "https://github.com/Thorbieey/Password-Generator.git",
+        "appURL": "https://thorbieey.github.io/Password-Generator/"
+    },
+    {
+        "id": 2,
+        "title": "Day Scheduler",
+        "description": "A simple and intuitive application that helps users manage their time effectively. This fully responsive application utilizes jQuery to dynamically update the UI and store data locally, ensuring that the schedule is accessible even without internet connection.",
+        "tags": "HTML/CSS/jQuery",
+        "gif": "day-scheduler-demo",
+        "repoURL": "https://github.com/Thorbieey/Day-Scheduler.git",
+        "appURL": "https://thorbieey.github.io/Day-Scheduler/"
+    },
+    {
+        "id": 3,
+        "title": "Code Quiz",
+        "description": "A dynamic and interactive web application, where users are presented with multiple-choice code-related questions. The application tracks the user's progress, calculates the score, provides feedback on the answers, and save the user's high score.",
+        "tags": "HTML/CSS/Javascript",
+        "gif": "code-quiz-demo",
+        "repoURL": "https://github.com/Thorbieey/Code-Quiz-OT.git",
+        "appURL": "https://thorbieey.github.io/Code-Quiz-OT/"
+    },
+    {
+        "id": 4,
+        "title": "Console Financial Analysis",
+        "description": "A financial analysis application which analyzes a given dataset and outputs financial perfomances in the Console.",
+        "tags": "Javascript",
+        "gif": "finance-analysis-app-demo",
+        "repoURL": "https://github.com/Thorbieey/Console-Finances-OT.git",
+        "appURL": "https://thorbieey.github.io/Console-Finances-OT/"
+    },
+    {
+        "id": 5,
+        "title": "ReadMe Generator",
+        "description": "A command-line application that dynamically generates a professional README.md file from a user's input using the NPM Inquirer package.",
+        "tags": "HTML/Node.js/Javascript",
+        "gif": "readme-gen-demo",
+        "repoURL": "https://github.com/Thorbieey/ReadMe-Generator.git",
+        "appURL": "https://github.com/Thorbieey/ReadMe-Generator.git"
     }
 ]
